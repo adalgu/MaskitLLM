@@ -125,7 +125,7 @@ We welcome contributions from the community. Please refer to our [CONTRIBUTING.m
 
 ## Security
 
-Data security is at the forefront of our development process. If you identify any security issues, please report them directly to security@maskitllm.com to ensure rapid resolution.
+Data security is at the forefront of our development process. If you identify any security issues, please report them to ensure rapid resolution.
 
 ## License
 
